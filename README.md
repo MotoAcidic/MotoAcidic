@@ -20,3 +20,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotoAcidic&layout=compact&theme=radical" />
 </a>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&redirect=true)
