@@ -15,14 +15,13 @@
 <code><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"></code>
 
 
-<a href="https://github.com/MotoAcidic/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoAcidic&show_icons=true&include_all_commits=true&theme=radical" alt="MotoAcidcic's github stats" />
+<a href="https://github.com/MotoAcidic/MotoAcidic">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotoAcidic&theme=radical" />
 </a>
-<a href="https://github.com/MotoAcidic/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotoAcidic&layout=compact&theme=radical" />
+<a href="https://github.com/MotoAcidic/MotoAcidic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoAcidic&show_icons=true&theme=radical&line_height=40&count_private=true&include_all_commits=true" alt="Anurag's github stats" />
 </a>
-</br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&redirect=true)
 
