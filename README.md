@@ -1,4 +1,6 @@
-**Languages and Tools:**  
+**Languages and Tools:**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=MotoAcidic&color=green)
+</br>
+![](https://hit.yhype.me/github/profile?user_id=30053875)
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
@@ -20,6 +22,11 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotoAcidic&layout=compact&theme=radical" />
 </a>
-
+</br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&redirect=true)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
