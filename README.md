@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MotoAcidic/Node_Install/pull/18) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
-2. 💪 Opened PR [#18](https://github.com/MotoAcidic/Node_Install/pull/18) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
-3. 🎉 Merged PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
-4. 💪 Opened PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
+1. 💪 Opened PR [#1](https://github.com/VitaKings/VitaKings-Coin/pull/1) in [VitaKings/VitaKings-Coin](https://github.com/VitaKings/VitaKings-Coin)
+2. 🎉 Merged PR [#18](https://github.com/MotoAcidic/Node_Install/pull/18) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
+3. 💪 Opened PR [#18](https://github.com/MotoAcidic/Node_Install/pull/18) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
+4. 🎉 Merged PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
 <!--END_SECTION:activity-->
