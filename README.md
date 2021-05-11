@@ -37,7 +37,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/YieldStakeWallet/YieldStakeWallet/pull/6) in [YieldStakeWallet/YieldStakeWallet](https://github.com/YieldStakeWallet/YieldStakeWallet)
+1. 💪 Opened PR [#19](https://github.com/MotoAcidic/Node_Install/pull/19) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
 2. 💪 Opened PR [#6](https://github.com/YieldStakeWallet/YieldStakeWallet/pull/6) in [YieldStakeWallet/YieldStakeWallet](https://github.com/YieldStakeWallet/YieldStakeWallet)
 3. 🎉 Merged PR [#4](https://github.com/PEMS-Motors/PickTicket-Monitor/pull/4) in [PEMS-Motors/PickTicket-Monitor](https://github.com/PEMS-Motors/PickTicket-Monitor)
 4. 💪 Opened PR [#22](https://github.com/bdcashdev/BigdataCash/pull/22) in [bdcashdev/BigdataCash](https://github.com/bdcashdev/BigdataCash)
