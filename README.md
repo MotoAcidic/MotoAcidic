@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/VitaKings/VitaKings-Core/pull/1) in [VitaKings/VitaKings-Core](https://github.com/VitaKings/VitaKings-Core)
-2. 💪 Opened PR [#21](https://github.com/MotoAcidic/Node_Install/pull/21) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
-3. 💪 Opened PR [#19](https://github.com/MotoAcidic/Node_Install/pull/19) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
+1. 🎉 Merged PR [#1](https://github.com/VitaKings/VitaKings-Core/pull/1) in [VitaKings/VitaKings-Core](https://github.com/VitaKings/VitaKings-Core)
+2. 💪 Opened PR [#1](https://github.com/VitaKings/VitaKings-Core/pull/1) in [VitaKings/VitaKings-Core](https://github.com/VitaKings/VitaKings-Core)
+3. 💪 Opened PR [#21](https://github.com/MotoAcidic/Node_Install/pull/21) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
 4. 💪 Opened PR [#22](https://github.com/bdcashdev/BigdataCash/pull/22) in [bdcashdev/BigdataCash](https://github.com/bdcashdev/BigdataCash)
 <!--END_SECTION:activity-->
