@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
-2. 🎉 Merged PR [#1](https://github.com/VitaKings/VitaKings-Core/pull/1) in [VitaKings/VitaKings-Core](https://github.com/VitaKings/VitaKings-Core)
-3. 💪 Opened PR [#1](https://github.com/VitaKings/VitaKings-Core/pull/1) in [VitaKings/VitaKings-Core](https://github.com/VitaKings/VitaKings-Core)
-4. 💪 Opened PR [#21](https://github.com/MotoAcidic/Node_Install/pull/21) in [MotoAcidic/Node_Install](https://github.com/MotoAcidic/Node_Install)
+1. ❌ Closed PR [#2](https://github.com/VitaKings/VKC-Core/pull/2) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
+2. 🎉 Merged PR [#3](https://github.com/VitaKings/VKC-Core/pull/3) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
+3. 💪 Opened PR [#3](https://github.com/VitaKings/VKC-Core/pull/3) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
+4. ❗️ Opened issue [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
 <!--END_SECTION:activity-->
