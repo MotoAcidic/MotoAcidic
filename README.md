@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Spaceium-io/Spaceium-Core/issues/2) in [Spaceium-io/Spaceium-Core](https://github.com/Spaceium-io/Spaceium-Core)
-2. ❗️ Closed issue [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
-3. 🗣 Commented on [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
-4. 🎉 Merged PR [#4](https://github.com/VitaKings/VKC-Core/pull/4) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
+1. 🎉 Merged PR [#1](https://github.com/YieldStakeWallet/YSW-Core/pull/1) in [YieldStakeWallet/YSW-Core](https://github.com/YieldStakeWallet/YSW-Core)
+2. 💪 Opened PR [#1](https://github.com/YieldStakeWallet/YSW-Core/pull/1) in [YieldStakeWallet/YSW-Core](https://github.com/YieldStakeWallet/YSW-Core)
+3. ❗️ Opened issue [#2](https://github.com/Spaceium-io/Spaceium-Core/issues/2) in [Spaceium-io/Spaceium-Core](https://github.com/Spaceium-io/Spaceium-Core)
+4. ❗️ Closed issue [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
 <!--END_SECTION:activity-->
