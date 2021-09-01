@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Spaceium-io/Spaceium-Core/issues/2) in [Spaceium-io/Spaceium-Core](https://github.com/Spaceium-io/Spaceium-Core)
-2. ❗️ Closed issue [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
-3. 🗣 Commented on [#1](https://github.com/VitaKings/VKC-Core/issues/1) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
-4. 🎉 Merged PR [#4](https://github.com/VitaKings/VKC-Core/pull/4) in [VitaKings/VKC-Core](https://github.com/VitaKings/VKC-Core)
+1. 💪 Opened PR [#2512](https://github.com/dogecoin/dogecoin/pull/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
+2. 🎉 Merged PR [#1](https://github.com/MotoAcidic/dogecoin/pull/1) in [MotoAcidic/dogecoin](https://github.com/MotoAcidic/dogecoin)
+3. 💪 Opened PR [#1](https://github.com/MotoAcidic/dogecoin/pull/1) in [MotoAcidic/dogecoin](https://github.com/MotoAcidic/dogecoin)
+4. ❌ Closed PR [#2511](https://github.com/dogecoin/dogecoin/pull/2511) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 <!--END_SECTION:activity-->
