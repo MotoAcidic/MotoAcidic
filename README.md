@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2512](https://github.com/dogecoin/dogecoin/issues/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
-2. 💪 Opened PR [#2512](https://github.com/dogecoin/dogecoin/pull/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
-3. 🎉 Merged PR [#1](https://github.com/MotoAcidic/dogecoin/pull/1) in [MotoAcidic/dogecoin](https://github.com/MotoAcidic/dogecoin)
-4. 💪 Opened PR [#1](https://github.com/MotoAcidic/dogecoin/pull/1) in [MotoAcidic/dogecoin](https://github.com/MotoAcidic/dogecoin)
+1. 🗣 Commented on [#1267](https://github.com/nodesource/distributions/issues/1267) in [nodesource/distributions](https://github.com/nodesource/distributions)
+2. 🗣 Commented on [#2512](https://github.com/dogecoin/dogecoin/issues/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
+3. 💪 Opened PR [#2512](https://github.com/dogecoin/dogecoin/pull/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
+4. 🎉 Merged PR [#1](https://github.com/MotoAcidic/dogecoin/pull/1) in [MotoAcidic/dogecoin](https://github.com/MotoAcidic/dogecoin)
 <!--END_SECTION:activity-->
