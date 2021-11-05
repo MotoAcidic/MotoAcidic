@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LOUD-Mining/miningcore/pull/1) in [LOUD-Mining/miningcore](https://github.com/LOUD-Mining/miningcore)
-2. 🗣 Commented on [#1267](https://github.com/nodesource/distributions/issues/1267) in [nodesource/distributions](https://github.com/nodesource/distributions)
-3. 🗣 Commented on [#2512](https://github.com/dogecoin/dogecoin/issues/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
-4. 💪 Opened PR [#2512](https://github.com/dogecoin/dogecoin/pull/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
+1. 💪 Opened PR [#2](https://github.com/LOUD-Mining/miningcore/pull/2) in [LOUD-Mining/miningcore](https://github.com/LOUD-Mining/miningcore)
+2. 💪 Opened PR [#1](https://github.com/LOUD-Mining/miningcore/pull/1) in [LOUD-Mining/miningcore](https://github.com/LOUD-Mining/miningcore)
+3. 🗣 Commented on [#1267](https://github.com/nodesource/distributions/issues/1267) in [nodesource/distributions](https://github.com/nodesource/distributions)
+4. 🗣 Commented on [#2512](https://github.com/dogecoin/dogecoin/issues/2512) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 <!--END_SECTION:activity-->
