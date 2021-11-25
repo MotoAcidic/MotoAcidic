@@ -37,8 +37,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MotoAcidic/bdcash-protocol/pull/1) in [MotoAcidic/bdcash-protocol](https://github.com/MotoAcidic/bdcash-protocol)
-2. 🎉 Merged PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
-3. 💪 Opened PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
-4. 💪 Opened PR [#2](https://github.com/LOUD-Mining/miningcore/pull/2) in [LOUD-Mining/miningcore](https://github.com/LOUD-Mining/miningcore)
+1. ❌ Closed PR [#2](https://github.com/MotoAcidic/bdcash-protocol/pull/2) in [MotoAcidic/bdcash-protocol](https://github.com/MotoAcidic/bdcash-protocol)
+2. 🎉 Merged PR [#1](https://github.com/MotoAcidic/bdcash-protocol/pull/1) in [MotoAcidic/bdcash-protocol](https://github.com/MotoAcidic/bdcash-protocol)
+3. 🎉 Merged PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
+4. 💪 Opened PR [#1](https://github.com/CoinPoolServices/miningcore/pull/1) in [CoinPoolServices/miningcore](https://github.com/CoinPoolServices/miningcore)
 <!--END_SECTION:activity-->
