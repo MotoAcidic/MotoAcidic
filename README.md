@@ -29,6 +29,7 @@
 </a>
 <a href="https://github.com/MotoAcidic/MotoAcidic">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoAcidic&show_icons=true&theme=radical&line_height=40&count_private=true&include_all_commits=true" alt="Anurag's github stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=motoacidic&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </a>
 
 
