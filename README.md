@@ -38,8 +38,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MotoAcidic/rosetta-euno/pull/1) in [MotoAcidic/rosetta-euno](https://github.com/MotoAcidic/rosetta-euno)
-2. 💪 Opened PR [#1](https://github.com/MotoAcidic/rosetta-euno/pull/1) in [MotoAcidic/rosetta-euno](https://github.com/MotoAcidic/rosetta-euno)
-3. 🎉 Merged PR [#5](https://github.com/MotoAcidic/bdcash-protocol/pull/5) in [MotoAcidic/bdcash-protocol](https://github.com/MotoAcidic/bdcash-protocol)
-4. 💪 Opened PR [#5](https://github.com/MotoAcidic/bdcash-protocol/pull/5) in [MotoAcidic/bdcash-protocol](https://github.com/MotoAcidic/bdcash-protocol)
+1. 🎉 Merged PR [#1](https://github.com/MotoAcidic/euno-rosetta-server/pull/1) in [MotoAcidic/euno-rosetta-server](https://github.com/MotoAcidic/euno-rosetta-server)
+2. 💪 Opened PR [#1](https://github.com/MotoAcidic/euno-rosetta-server/pull/1) in [MotoAcidic/euno-rosetta-server](https://github.com/MotoAcidic/euno-rosetta-server)
+3. 🎉 Merged PR [#1](https://github.com/MotoAcidic/eunowallet/pull/1) in [MotoAcidic/eunowallet](https://github.com/MotoAcidic/eunowallet)
+4. 💪 Opened PR [#1](https://github.com/MotoAcidic/eunowallet/pull/1) in [MotoAcidic/eunowallet](https://github.com/MotoAcidic/eunowallet)
 <!--END_SECTION:activity-->
