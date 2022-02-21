@@ -38,7 +38,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MotoAcidic/euno-rosetta-server/pull/1) in [MotoAcidic/euno-rosetta-server](https://github.com/MotoAcidic/euno-rosetta-server)
+1. 💪 Opened PR [#2](https://github.com/MotoAcidic/euno-rosetta-server/pull/2) in [MotoAcidic/euno-rosetta-server](https://github.com/MotoAcidic/euno-rosetta-server)
 2. 💪 Opened PR [#1](https://github.com/MotoAcidic/euno-rosetta-server/pull/1) in [MotoAcidic/euno-rosetta-server](https://github.com/MotoAcidic/euno-rosetta-server)
 3. 🎉 Merged PR [#1](https://github.com/MotoAcidic/eunowallet/pull/1) in [MotoAcidic/eunowallet](https://github.com/MotoAcidic/eunowallet)
 4. 💪 Opened PR [#1](https://github.com/MotoAcidic/eunowallet/pull/1) in [MotoAcidic/eunowallet](https://github.com/MotoAcidic/eunowallet)
