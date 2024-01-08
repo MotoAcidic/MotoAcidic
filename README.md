@@ -32,9 +32,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=motoacidic&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </a>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=tfinch01&redirect=true)
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
