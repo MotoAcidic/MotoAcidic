@@ -37,6 +37,49 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+## EasyA Course Completion Certifications
+
+<details>
+<summary><strong>Solana</strong></summary>
+
+<table>
+  <tr>
+    <td><img src="./CourseCompletion/solana/0.jpg" alt="Solana Certificate 1" width="200"></td>
+    <td><img src="./CourseCompletion/solana/1.jpg" alt="Solana Certificate 2" width="200"></td>
+    <td><img src="./CourseCompletion/solana/2.jpg" alt="Solana Certificate 3" width="200"></td>
+    <td><img src="./CourseCompletion/solana/3.jpg" alt="Solana Certificate 4" width="200"></td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><strong>XRP</strong></summary>
+
+<table>
+  <tr>
+    <td><img src="./CourseCompletion/xrp/0.jpg" alt="XRP Certificate 1" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/1.jpg" alt="XRP Certificate 2" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/2.jpg" alt="XRP Certificate 3" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="./CourseCompletion/xrp/3.jpg" alt="XRP Certificate 4" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/4.jpg" alt="XRP Certificate 5" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/5.jpg" alt="XRP Certificate 6" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="./CourseCompletion/xrp/6.jpg" alt="XRP Certificate 7" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/7.jpg" alt="XRP Certificate 8" width="200"></td>
+    <td><img src="./CourseCompletion/xrp/8.jpg" alt="XRP Certificate 9" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="./CourseCompletion/xrp/9.jpg" alt="XRP Certificate 10" width="200"></td>
+  </tr>
+</table>
+
+</details>
+
+
 
 [![An image of @motoacidic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/motoacidic)](https://holopin.io/@motoacidic)
 
